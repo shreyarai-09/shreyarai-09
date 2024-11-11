@@ -1,41 +1,91 @@
-<h1 align="center">Hi 👋! I'm Shreya Rai</h2>
-<h3 align="center">A passionate CSE student interested in Web Dev & Data Science</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyarai-09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyarai-09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img height="150" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" />
 </div>
 
-###
-
-###
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyarai-09&theme=dracula&hide_border=true&count_private=false" alt="shreyarai-09" height="160" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=shreyarai-09&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true&count_private=true" alt="shreyarai-09" height="160" />
-</p>
-
-###
-
-###
-
 <div align="center">
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</div>
-
-###
-
-###
-
-<div align="center">
-  <a href="mailto:shreyarai.0910@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/shreya-rai-65858a215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="35" alt="linkedin"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://github.com/shreyarai-09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
+  </a>
+  <a href="mailto:shreyarai.0910@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
   </a>
 </div>
 
-###
+<h1 align="center">👋 Hello World! <br /> I'm Shreya Rai</h1>
+
+<h3 align="center">🌟 Aspiring Data Scientist & Full Stack Developer <br /> Passionate About AI & Innovation 🚀</h3>
+
+<h3 align="left">🛠 Languages and Tools</h3>
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="Linux logo" />
+  <img src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png" height="40" width="52" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="Figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="TensorFlow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="Go logo" />
+</div>
+
+<h3 align="left">📈 Projects & Achievements</h3>
+<ul>
+  <li>💻 <strong>Blood Bank Management System</strong> - A web app for managing blood donations and requests.</li>
+  <li>📦 <strong>Quick Commerce Project</strong> - An efficient platform for online shopping experiences.</li>
+  <li>🍔 <strong>Food Ordering Application</strong> - Full-stack app for online food orders with order and menu management.</li>
+  <li>📊 <strong>Sentiment Analysis App</strong> - A machine learning app to classify restaurant reviews.</li>
+  <li>📈 <strong>Weather Forecast API</strong> - A backend API for providing weather forecasts built with Python and Flask.</li>
+  <li>📝 <strong>To-Do List Application</strong> - A full-stack application for managing tasks, showcasing CRUD operations.</li>
+  <li>✍️ <strong>CollabWrite</strong> - A collaborative text editor project built using Go, with enhanced front-end and seamless collaborative functionality.</li>
+</ul>
+
+<h3 align="left">💼 Experience</h3>
+<ul>
+  <li>🛠️ Full Stack Development Internship at Webstack Academy - Developed responsive web applications using the MERN stack.</li>
+  <li>🔍 Data Science Internship at Verzeo - Developed a machine learning-based sentiment analysis application.</li>
+</ul>
+
+<h3 align="left">📫 Get in Touch!</h3>
+<p>I'm always open to collaboration and new opportunities. Feel free to connect with me:</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shreya-rai-65858a215/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect_on_LinkedIn&label=&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/shreyarai-09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Explore_my_GitHub&label=&color=181717&logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:shreyarai.0910@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email_Me&label=&color=EA4335&logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
+
+<h3 align="left">🌐 Portfolio</h3>
+<p>Check out my work and projects at: <a href="" target="_blank">Sumeet-Portfolio 🔗</a></p>
+
+<h3 align="left">📚 Learning and Growth</h3>
+<p>Currently enhancing my skills in:</p>
+<ul>
+  <li>📊 Data Structures & Algorithms</li>
+  <li>🤖 Machine Learning Techniques</li>
+  <li>🌐 Advanced Full Stack Development</li>
+</ul>
+
+## 🤝 Let's Connect!
+
+I'm always excited to meet new people and collaborate on interesting projects. Feel free to reach out if you want to chat about tech, share ideas, or work together!
+
+- **[LinkedIn](https://www.linkedin.com/in/shreya-rai-65858a215/)** 🌐
+- **[Email Me](mailto:shreyarai.0910@gmail.com)** 📩
+- **[Portfolio]()** 🌟
+
+<p align="center">Thank you for visiting my profile! 🚀</p>
