@@ -70,7 +70,7 @@
 </div>
 
 <h3 align="left">🌐 Portfolio</h3>
-<p>Check out my work and projects at: <a href="" target="_blank">Sumeet-Portfolio 🔗</a></p>
+<p>Check out my work and projects at: <a href="" target="_blank"></a></p>
 
 <h3 align="left">📚 Learning and Growth</h3>
 <p>Currently enhancing my skills in:</p>
